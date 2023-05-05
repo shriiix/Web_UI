@@ -1,0 +1,22 @@
+<html>
+<head>
+	
+	
+	<title> SG design's </title>
+	<link rel="stylesheet" href="style.css">
+	
+</head>
+<body>
+		<div class="hero"></div>
+		<div class="navbar"></div>
+		<img src="logo.png" class="logo">
+		<button type="button"> Sign up </button>
+	
+	
+</body>
+
+
+
+
+
+</html>
